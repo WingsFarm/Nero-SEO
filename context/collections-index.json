@@ -1,0 +1,86 @@
+[
+  {
+    "title": "תכשיטים חדשים באתר",
+    "slug": "/collections/new-arrivals",
+    "type": "collection",
+    "topics": ["חדש", "new arrivals", "קולקציה חדשה", "טבעות", "צמידים", "שרשראות"],
+    "summary": "הקולקציה החדשה של NERO — תכשיטי גברים בעיצוב נקי ומודרני"
+  },
+  {
+    "title": "WILD SPIRIT",
+    "slug": "/collections/wild-spirit",
+    "type": "collection",
+    "topics": ["Wild Spirit", "חרוזים", "אבנים", "טקסטורות טבעיות", "צמידים", "שרשראות", "סטייל יומיומי"],
+    "summary": "קולקציית Wild Spirit — צמידים ושרשראות עם חרוזים, אבנים וטקסטורות טבעיות בסגנון חופשי ונקי"
+  },
+  {
+    "title": "OCEAN GEMS",
+    "slug": "/collections/ocean-gems",
+    "type": "collection",
+    "topics": ["Ocean Gems", "ים", "ocean", "טקסטורות", "עולם ימי", "טבעות", "צמידים", "שרשראות"],
+    "summary": "קולקציית Ocean Gems — תכשיטי גברים עם נגיעות מהעולם הימי, טקסטורות עמוקות וסטייל מודרני"
+  },
+  {
+    "title": "המוצרים הנמכרים ביותר",
+    "slug": "/collections/best-sellers",
+    "type": "collection",
+    "topics": ["best sellers", "נמכרים ביותר", "פופולרי", "טבעות", "צמידים", "שרשראות"],
+    "summary": "התכשיטים הנמכרים ביותר של NERO — טבעות, צמידים ושרשראות לגברים בעיצוב נקי ואיכות פרימיום"
+  },
+  {
+    "title": "תכשיטים מינימליסטיים לגברים",
+    "slug": "/collections/minimalist",
+    "type": "collection",
+    "topics": ["מינימליזם", "minimalist", "קו נקי", "אלגנטי", "טבעות", "צמידים", "שרשראות", "לוק יומיומי"],
+    "summary": "קולקציית Minimalist — תכשיטי גברים בקו נקי, אלגנטי ומדויק שמתאים לכל לוק יומיומי"
+  },
+  {
+    "title": "כל התכשיטים",
+    "slug": "/collections/all",
+    "type": "collection",
+    "topics": ["תכשיטים לגברים", "כל הקולקציה", "NERO", "טבעות", "צמידים", "שרשראות"],
+    "summary": "כל תכשיטי הגברים של NERO במקום אחד — טבעות, צמידים ושרשראות בעיצוב מודרני ונקי"
+  },
+  {
+    "title": "תכשיטים במבצע",
+    "slug": "/collections/sale",
+    "type": "collection",
+    "topics": ["מבצע", "sale", "הנחה", "טבעות", "צמידים", "שרשראות"],
+    "summary": "תכשיטי גברים של NERO במחירים מיוחדים — עיצוב מודרני ואיכות פרימיום"
+  },
+  {
+    "title": "סטים של תכשיטים",
+    "slug": "/collections/sets",
+    "type": "collection",
+    "topics": ["סטים", "sets", "שילובים", "מראה מוקפד", "layering", "bracelet stacking"],
+    "summary": "קולקציית הסטים של NERO — שילובים מדויקים של תכשיטי גברים למראה מוקפד וסטייל יומיומי"
+  },
+  {
+    "title": "שרשראות לגברים",
+    "slug": "/collections/necklaces",
+    "type": "collection",
+    "topics": ["שרשראות", "necklaces", "layering chains", "Helios", "צוואר", "שרשרת"],
+    "summary": "קולקציית השרשראות לגברים של NERO — עיצוב נקי ומודרני עם נוכחות שקטה לכל לוק"
+  },
+  {
+    "title": "ESSENCE OF GOD",
+    "slug": "/collections/essence-of-god",
+    "type": "collection",
+    "topics": ["Essence of God", "עוצמה", "קווים חזקים", "נוכחות", "שרשראות", "צמידים", "אלגנטיות"],
+    "summary": "קולקציית Essence of God — שרשראות וצמידים עם קווים חזקים ונוכחות מודגשת, עוצמה ואלגנטיות"
+  },
+  {
+    "title": "צמידים לגברים",
+    "slug": "/collections/bracelets",
+    "type": "collection",
+    "topics": ["צמידים", "bracelets", "bracelet stacking", "Silver Cuban", "פרק כף יד"],
+    "summary": "קולקציית הצמידים לגברים של NERO — עיצוב נקי ומודרני עם נוכחות מדויקת לכל לוק"
+  },
+  {
+    "title": "טבעות לגברים",
+    "slug": "/collections/rings",
+    "type": "collection",
+    "topics": ["טבעות", "rings", "ring styling", "Meduza", "אצבע"],
+    "summary": "קולקציית הטבעות לגברים של NERO — עיצוב נקי ומודרני עם נוכחות מדויקת ואיכות גבוהה"
+  }
+]

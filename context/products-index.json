@@ -1,0 +1,452 @@
+[
+  {
+    "title": "טבעת Meduza",
+    "slug": "/products/meduza-ring",
+    "meta_title": "טבעת Meduza לגברים | OCEAN GEMS | NERO STUDIO",
+    "meta_description": "טבעת Meduza מקולקציית OCEAN GEMS — קווים נקיים, טקסטורה עדינה ועוצמתית בגימור מט. רוחב 5 מ״מ. תכשיט גברי מינימליסטי בהשראת הים.",
+    "main_keyword": "טבעת לגברים",
+    "topics": ["טבעות לגברים", "OCEAN GEMS", "מינימליזם", "גימור מט", "Meduza", "תכשיטי ים"],
+    "summary": "טבעת Meduza מקולקציית OCEAN GEMS — קווים נקיים וטקסטורה עוצמתית בגימור מט, רוחב 5 מ״מ"
+  },
+  {
+    "title": "טבעת Orca",
+    "slug": "/products/orca-ring",
+    "meta_title": "טבעת Orca לגברים | מינימליסטית | NERO STUDIO",
+    "meta_description": "טבעת Orca מינימליסטית ואלגנטית — גימור מבריק, רוחב 4 מ״מ. לוגו NERO מוטבע בחלק הפנימי. נוכחות עדינה וייחודית לגבר שיודע סטייל.",
+    "main_keyword": "טבעת מינימליסטית לגברים",
+    "topics": ["טבעות לגברים", "מינימליזם", "גימור מבריק", "Orca", "NERO"],
+    "summary": "טבעת Orca מינימליסטית ואלגנטית ברוחב 4 מ״מ — גימור מבריק ולוגו NERO מוטבע, נוכחות עדינה וייחודית"
+  },
+  {
+    "title": "טבעת Oyster",
+    "slug": "/products/oyster-ring",
+    "meta_title": "טבעת Oyster לגברים | מינימליסטית | NERO STUDIO",
+    "meta_description": "טבעת Oyster דקה ואלגנטית בגימור מט, רוחב 5 מ״מ. חותם NERO מוטבע בחלק הפנימי — עיצוב מינימליסטי שמבטיח נוחות וסגנון.",
+    "main_keyword": "טבעת לגברים",
+    "topics": ["טבעות לגברים", "מינימליזם", "גימור מט", "Oyster", "NERO"],
+    "summary": "טבעת Oyster דקה ואלגנטית בגימור מט עם חותמת NERO — עיצוב מינימליסטי נקי ונוח לענידה"
+  },
+  {
+    "title": "טבעת Polar",
+    "slug": "/products/polar-ring",
+    "meta_title": "טבעת Polar לגברים | MINIMALIST | NERO STUDIO",
+    "meta_description": "טבעת Polar מקולקציית MINIMALIST — יוקרה גברית בקווים נקיים וביצוע מושלם. גימור מבריק, רוחב 4 מ״מ. ללא קישוטים, רק דיוק.",
+    "main_keyword": "טבעת מינימליסטית לגברים",
+    "topics": ["טבעות לגברים", "MINIMALIST", "מינימליזם", "גימור מבריק", "Polar", "יוקרה"],
+    "summary": "טבעת Polar מקולקציית MINIMALIST — יוקרה גברית בקווים נקיים וביצוע מושלם, ללא קישוטים"
+  },
+  {
+    "title": "סט Manta + Orca",
+    "slug": "/products/manta-orca-set",
+    "meta_title": "סט Manta + Orca | סט תכשיטים לגברים | NERO STUDIO",
+    "meta_description": "סט Manta + Orca — 3 תכשיטים מינימליסטיים: צמיד Orca מבריק, צמיד Manta דק וטבעת Orca. מושלם לענידה יומיומית וסטייל שכבתי.",
+    "main_keyword": "סט תכשיטים לגברים",
+    "topics": ["סטים", "מינימליזם", "Orca", "Manta", "צמידים", "טבעות", "גימור מבריק"],
+    "summary": "סט Manta + Orca — 3 תכשיטים מינימליסטיים מבריקים: צמיד Orca, צמיד Manta דק וטבעת Orca"
+  },
+  {
+    "title": "סט Meduza זהב",
+    "slug": "/products/meduza-gold-set",
+    "meta_title": "סט Meduza זהב | OCEAN GEMS | NERO STUDIO",
+    "meta_description": "סט Meduza זהב מקולקציית OCEAN GEMS — שרשרת, צמיד וטבעת Meduza בגימור מבריק. סט גברי שלם לנוכחות מינימליסטית ועוצמתית.",
+    "main_keyword": "סט תכשיטים לגברים זהב",
+    "topics": ["סטים", "OCEAN GEMS", "Meduza", "זהב", "שרשרת", "צמיד", "טבעת", "גימור מבריק"],
+    "summary": "סט Meduza זהב מקולקציית OCEAN GEMS — שרשרת, צמיד וטבעת Meduza לסטייל גברי שלם ומינימליסטי"
+  },
+  {
+    "title": "סט MINIMALIST MIX",
+    "slug": "/products/minimalist-mix-set",
+    "meta_title": "סט MINIMALIST MIX | 4 צמידים מינימליסטיים | NERO STUDIO",
+    "meta_description": "סט MINIMALIST MIX — 4 צמידים דקים: Octopus זהב, Manta כסף, Piranha זהב ו-Barracuda זהב. שילוב מדויק לסטייל גברי ייחודי.",
+    "main_keyword": "סט צמידים מינימליסטיים לגברים",
+    "topics": ["סטים", "MINIMALIST", "מינימליזם", "Octopus", "Manta", "Piranha", "Barracuda", "צמידים דקים", "זהב"],
+    "summary": "סט MINIMALIST MIX — 4 צמידים מינימליסטיים דקים בזהב וכסף לשכבות סטייל גברי מדויקות"
+  },
+  {
+    "title": "סט Moonstone + Orca",
+    "slug": "/products/moonstone-orca-set",
+    "meta_title": "סט Moonstone + Orca | טבע ומינימליזם | NERO STUDIO",
+    "meta_description": "סט Moonstone + Orca — צמיד Moonstone מחוטי שעווה וטבעת Orca מבריקה. שילוב עומק רגוע עם מינימליזם אלגנטי לגבר עם אופי.",
+    "main_keyword": "סט תכשיטים לגברים",
+    "topics": ["סטים", "WILD SPIRIT", "Moonstone", "Orca", "חוטי שעווה", "מינימליזם", "טבעי"],
+    "summary": "סט Moonstone + Orca — צמיד חוטי שעווה וטבעת מינימליסטית מבריקה, שילוב עומק רגוע ועיצוב נקי"
+  },
+  {
+    "title": "סט Octopus + Orca",
+    "slug": "/products/octopus-orca-set",
+    "meta_title": "סט Octopus + Orca זהב | 3 תכשיטים | NERO STUDIO",
+    "meta_description": "סט Octopus + Orca זהב — 3 תכשיטים: צמיד Orca, צמיד Octopus דק וטבעת Orca. גימור מבריק בזהב, שילוב רוחבים לסטייל שכבתי.",
+    "main_keyword": "סט תכשיטים זהב לגברים",
+    "topics": ["סטים", "מינימליזם", "Octopus", "Orca", "זהב", "גימור מבריק", "צמידים", "טבעות"],
+    "summary": "סט Octopus + Orca זהב — 3 תכשיטים מינימליסטיים מבריקים בזהב, שילוב רוחבים לנוכחות גברית נקייה"
+  },
+  {
+    "title": "סט Octopus + Piranha",
+    "slug": "/products/octopus-piranha-set",
+    "meta_title": "סט Octopus + Piranha | 2 צמידים דקים | NERO STUDIO",
+    "meta_description": "סט Octopus + Piranha — 2 צמידים מינימליסטיים דקים עם תליון NERO מוטבע. גימור מבריק, רוחב 1.8 ו-1.6 מ״מ לסטייל שכבתי.",
+    "main_keyword": "סט צמידים לגברים",
+    "topics": ["סטים", "מינימליזם", "Octopus", "Piranha", "צמידים דקים", "גימור מבריק", "תליון NERO"],
+    "summary": "סט Octopus + Piranha — שני צמידים מינימליסטיים דקים עם תליון NERO לסטייל שכבתי ומדויק"
+  },
+  {
+    "title": "סט Orca + Onyx",
+    "slug": "/products/orca-onyx-set",
+    "meta_title": "סט Orca + Onyx | מינימליזם ואבנות טבעיות | NERO STUDIO",
+    "meta_description": "סט Orca + Onyx — צמיד Orca מינימליסטי מבריק וצמיד Onyx מאבני אגט. שילוב עוצמה שקטה עם סטייל מחוספס ונקי לענידה יומיומית.",
+    "main_keyword": "סט צמידים לגברים",
+    "topics": ["סטים", "WILD SPIRIT", "Orca", "Onyx", "אגט", "אבנות טבעיות", "מינימליזם", "גימור מבריק"],
+    "summary": "סט Orca + Onyx — מינימליזם מבריק ועוצמה טבעית: צמיד Orca אלגנטי וצמיד Onyx מאבני אגט"
+  },
+  {
+    "title": "סט Piranha + Manta + Orca זהב",
+    "slug": "/products/orca-piranha-manta-set",
+    "meta_title": "סט Piranha + Manta + Orca זהב | 4 תכשיטים | NERO STUDIO",
+    "meta_description": "סט Piranha + Manta + Orca זהב — 4 תכשיטים: 3 צמידים וטבעת Orca. גימור מבריק בזהב, שילוב רוחבים לסטייל גברי שכבתי ועוצמתי.",
+    "main_keyword": "סט תכשיטים זהב לגברים",
+    "topics": ["סטים", "מינימליזם", "Piranha", "Manta", "Orca", "זהב", "גימור מבריק", "צמידים", "טבעות"],
+    "summary": "סט Piranha + Manta + Orca זהב — 4 תכשיטים מינימליסטיים מבריקים בזהב לנוכחות גברית שכבתית"
+  },
+  {
+    "title": "סט Piranha + Manta + Orca כסף",
+    "slug": "/products/piranha-manta-orca-set",
+    "meta_title": "סט Piranha + Manta + Orca כסף | 3 צמידים | NERO STUDIO",
+    "meta_description": "סט Piranha + Manta + Orca כסף — 3 צמידים מינימליסטיים מבריקים בכסף. שילוב רוחבים מדויק לסטייל יומיומי נקי ואלגנטי.",
+    "main_keyword": "סט צמידים לגברים",
+    "topics": ["סטים", "מינימליזם", "Piranha", "Manta", "Orca", "כסף", "גימור מבריק", "צמידים"],
+    "summary": "סט Piranha + Manta + Orca כסף — 3 צמידים מינימליסטיים מבריקים בכסף לסטייל גברי יומיומי"
+  },
+  {
+    "title": "סט Reef + Bloom + Orca",
+    "slug": "/products/reef-bloom-orca-set",
+    "meta_title": "סט Reef + Bloom + Orca | טבע וים | NERO STUDIO",
+    "meta_description": "סט Reef + Bloom + Orca — טורקיז אפריקאי, שונית ים ומינימליזם מבריק. 3 תכשיטים לגבר שמחפש אבנות טבעיות עם סטייל ים.",
+    "main_keyword": "סט תכשיטים לגברים",
+    "topics": ["סטים", "WILD SPIRIT", "OCEAN GEMS", "Reef", "Bloom", "Orca", "טורקיז", "אבנות טבעיות", "ים"],
+    "summary": "סט Reef + Bloom + Orca — טורקיז אפריקאי, שונית ים ומינימליזם מבריק: 3 תכשיטים בהשראת הים"
+  },
+  {
+    "title": "סט Tulum + Onyx",
+    "slug": "/products/greens-set",
+    "meta_title": "סט Tulum + Onyx | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "סט Tulum + Onyx מקולקציית WILD SPIRIT — אבני המטיט, אגט טבעי ועוצמה שקטה. 2 צמידים לגבר שמחפש סטייל טבעי על-זמני.",
+    "main_keyword": "סט צמידים מאבנות טבעיות לגברים",
+    "topics": ["סטים", "WILD SPIRIT", "Tulum", "Onyx", "המטיט", "אגט", "אבנות טבעיות", "גימור מבריק"],
+    "summary": "סט Tulum + Onyx מקולקציית WILD SPIRIT — המטיט, אגט וסטייל גברי על-זמני עם נוכחות שקטה"
+  },
+  {
+    "title": "צמיד Apollo",
+    "slug": "/products/apollon-bracelet",
+    "meta_title": "צמיד Apollo לגברים | ESSENCE OF GOD | NERO STUDIO",
+    "meta_description": "צמיד Apollo מקולקציית ESSENCE OF GOD — רחב, מבריק ועוצמתי. רוחב 5 מ״מ, נוכחות בולטת ואלגנטית לשדרוג כל לוק יומיומי.",
+    "main_keyword": "צמיד לגברים",
+    "topics": ["צמידים לגברים", "ESSENCE OF GOD", "Apollo", "גימור מבריק", "נוכחות"],
+    "summary": "צמיד Apollo מקולקציית ESSENCE OF GOD — נוכחות בולטת ואלגנטית בגימור מבריק, רוחב 5 מ״מ"
+  },
+  {
+    "title": "צמיד Aqua",
+    "slug": "/products/aqua-bracelet",
+    "meta_title": "צמיד Aqua לגברים | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "צמיד Aqua מקולקציית WILD SPIRIT — חוטי שעווה וחרוזי MIYUKI מיפן. שילוב מלאכת יד ומסורת עיצוב יפנית. גימור מבריק, רוחב 4 מ״מ.",
+    "main_keyword": "צמיד לגברים",
+    "topics": ["צמידים לגברים", "WILD SPIRIT", "Aqua", "חוטי שעווה", "MIYUKI", "מלאכת יד", "גימור מבריק"],
+    "summary": "צמיד Aqua מקולקציית WILD SPIRIT — חוטי שעווה וחרוזי MIYUKI יפניים, שילוב מלאכת יד ועיצוב מדויק"
+  },
+  {
+    "title": "צמיד Aura",
+    "slug": "/products/aura-bracelet",
+    "meta_title": "צמיד Aura לגברים | ESSENCE OF GOD | NERO STUDIO",
+    "meta_description": "צמיד Aura מקולקציית ESSENCE OF GOD — אלגנטיות מודרנית ונוכחות עדינה. עיצוב מינימליסטי ומבריק, רוחב 3.5 מ״מ. למראה גברי ומדויק.",
+    "main_keyword": "צמיד לגברים",
+    "topics": ["צמידים לגברים", "ESSENCE OF GOD", "Aura", "מינימליזם", "גימור מבריק", "אלגנטיות"],
+    "summary": "צמיד Aura מקולקציית ESSENCE OF GOD — אלגנטיות מודרנית ונוכחות עדינה בגימור מבריק, רוחב 3.5 מ״מ"
+  },
+  {
+    "title": "צמיד Barracuda",
+    "slug": "/products/barracuda-bracelet",
+    "meta_title": "צמיד Barracuda לגברים | מינימליסטי דק | NERO STUDIO",
+    "meta_description": "צמיד Barracuda מינימליסטי ודק עם לוגו NERO מוטבע על התליון. גימור מבריק, רוחב 1.3 מ״מ — עדינות וייחודיות לענידה יומיומית.",
+    "main_keyword": "צמיד מינימליסטי לגברים",
+    "topics": ["צמידים לגברים", "מינימליזם", "Barracuda", "גימור מבריק", "תליון NERO", "צמידים דקים"],
+    "summary": "צמיד Barracuda מינימליסטי ודק עם תליון NERO מוטבע — גימור מבריק ורוחב 1.3 מ״מ"
+  },
+  {
+    "title": "צמיד Beluga",
+    "slug": "/products/beluga-bracelet",
+    "meta_title": "צמיד Beluga לגברים | OCEAN GEMS | NERO STUDIO",
+    "meta_description": "צמיד Beluga מקולקציית OCEAN GEMS — חוליות שרשרת עבות ומבריקות בעיצוב ייחודי. גימור מבריק, רוחב 5 מ״מ. פריט חובה לכל גבר.",
+    "main_keyword": "צמיד לגברים",
+    "topics": ["צמידים לגברים", "OCEAN GEMS", "Beluga", "גימור מבריק", "חוליות שרשרת", "נוכחות"],
+    "summary": "צמיד Beluga מקולקציית OCEAN GEMS — חוליות שרשרת עבות ומבריקות, פריט חובה ברוחב 5 מ״מ"
+  },
+  {
+    "title": "צמיד Bloom",
+    "slug": "/products/bloom-bracelet",
+    "meta_title": "צמיד Bloom לגברים | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "צמיד Bloom מקולקציית WILD SPIRIT — אבני טורקיז אפריקאיות טבעיות. גוונים ייחודיים שמשקפים יופי הים. גימור מבריק, רוחב 4 מ״מ.",
+    "main_keyword": "צמיד אבנות טבעיות לגברים",
+    "topics": ["צמידים לגברים", "WILD SPIRIT", "Bloom", "טורקיז", "אבנות טבעיות", "גימור מבריק", "ים"],
+    "summary": "צמיד Bloom מקולקציית WILD SPIRIT — אבני טורקיז אפריקאיות טבעיות, גוונים עמוקים ברוחב 4 מ״מ"
+  },
+  {
+    "title": "צמיד Eros",
+    "slug": "/products/eros-bracelet",
+    "meta_title": "צמיד Eros לגברים | ESSENCE OF GOD | NERO STUDIO",
+    "meta_description": "צמיד Eros מקולקציית ESSENCE OF GOD — מגדיר מחדש אלגנטיות מודרנית. עמיד למים ולזיעה, לא משאיר סימנים. גימור מבריק, רוחב 4 מ״מ.",
+    "main_keyword": "צמיד לגברים",
+    "topics": ["צמידים לגברים", "ESSENCE OF GOD", "Eros", "עמיד למים", "גימור מבריק", "אלגנטיות מודרנית"],
+    "summary": "צמיד Eros מקולקציית ESSENCE OF GOD — אלגנטיות מודרנית, עמיד למים ולזיעה, גימור מבריק ברוחב 4 מ״מ"
+  },
+  {
+    "title": "צמיד Kai",
+    "slug": "/products/kai-bracelet",
+    "meta_title": "צמיד Kai לגברים | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "צמיד Kai מקולקציית WILD SPIRIT — אבני מלכיט ולבה טבעיות. שילוב ניגודיות הטבע הפראי עם עומק ונוכחות. גימור מט, רוחב 4 מ״מ.",
+    "main_keyword": "צמיד אבנות טבעיות לגברים",
+    "topics": ["צמידים לגברים", "WILD SPIRIT", "Kai", "מלכיט", "אבני לבה", "אבנות טבעיות", "גימור מט"],
+    "summary": "צמיד Kai מקולקציית WILD SPIRIT — מלכיט ואבני לבה טבעיות, שילוב ניגודיות הטבע בגימור מט"
+  },
+  {
+    "title": "צמיד Manta",
+    "slug": "/products/manta-bracelet",
+    "meta_title": "צמיד Manta לגברים | מינימליסטי | NERO STUDIO",
+    "meta_description": "צמיד Manta מינימליסטי ואלגנטי — דק ומבריק עם תליון לוגו NERO מוטבע. גימור מבריק, רוחב 1.4 מ״מ. מראה נקי ומודרני לכל יום.",
+    "main_keyword": "צמיד מינימליסטי לגברים",
+    "topics": ["צמידים לגברים", "מינימליזם", "Manta", "גימור מבריק", "תליון NERO", "צמידים דקים"],
+    "summary": "צמיד Manta מינימליסטי ואלגנטי — דק ומבריק עם תליון NERO, רוחב 1.4 מ״מ"
+  },
+  {
+    "title": "צמיד Marine",
+    "slug": "/products/marine-bracelet",
+    "meta_title": "צמיד Marine לגברים | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "צמיד Marine מקולקציית WILD SPIRIT — אבני לפיס וג׳ספר טבעיות. נוכחות מורגשת ואלגנטית בהשראת עולמות עמוקים ושקטים. גימור מט.",
+    "main_keyword": "צמיד אבנות טבעיות לגברים",
+    "topics": ["צמידים לגברים", "WILD SPIRIT", "Marine", "לפיס", "ג׳ספר", "אבנות טבעיות", "גימור מט"],
+    "summary": "צמיד Marine מקולקציית WILD SPIRIT — לפיס וג׳ספר טבעיים, נוכחות מורגשת בהשראת עומקי הים"
+  },
+  {
+    "title": "צמיד Maui",
+    "slug": "/products/maui-bracelet",
+    "meta_title": "צמיד Maui לגברים | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "צמיד Maui מקולקציית WILD SPIRIT — עשוי חוטי שעווה. משדר איזון וחיבור עמוק לטבע. גימור מבריק, רוחב 4.5 מ״מ.",
+    "main_keyword": "צמיד לגברים",
+    "topics": ["צמידים לגברים", "WILD SPIRIT", "Maui", "חוטי שעווה", "טבע", "גימור מבריק", "איזון"],
+    "summary": "צמיד Maui מקולקציית WILD SPIRIT — חוטי שעווה בגימור מבריק, משדר איזון וחיבור לטבע"
+  },
+  {
+    "title": "צמיד Meduza",
+    "slug": "/products/meduza-bracelet",
+    "meta_title": "צמיד Meduza לגברים | OCEAN GEMS | NERO STUDIO",
+    "meta_description": "צמיד Meduza — ה-Statement Piece של OCEAN GEMS. עוצב בהשראת הים התיכון, גימור מבריק, רוחב 5 מ״מ. טאץ' גברי ומינימליסטי.",
+    "main_keyword": "צמיד לגברים",
+    "topics": ["צמידים לגברים", "OCEAN GEMS", "Meduza", "גימור מבריק", "ים התיכון", "מינימליזם", "statement piece"],
+    "summary": "צמיד Meduza — ה-Statement Piece של OCEAN GEMS, בהשראת הים התיכון, גימור מבריק ברוחב 5 מ״מ"
+  },
+  {
+    "title": "צמיד Mistral",
+    "slug": "/products/mistral-bracelet",
+    "meta_title": "צמיד Mistral לגברים | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "צמיד Mistral מקולקציית WILD SPIRIT — אבני עין הנמר וטורקיז טבעיות. עיצוב אלגנטי המשדר איזון, עוצמה ואנרגיה. גימור מבריק.",
+    "main_keyword": "צמיד אבנות טבעיות לגברים",
+    "topics": ["צמידים לגברים", "WILD SPIRIT", "Mistral", "עין הנמר", "טורקיז", "אבנות טבעיות", "גימור מבריק"],
+    "summary": "צמיד Mistral מקולקציית WILD SPIRIT — עין הנמר וטורקיז טבעיים, איזון ועוצמה בגימור מבריק"
+  },
+  {
+    "title": "צמיד Moonstone",
+    "slug": "/products/moonstone-bracelet",
+    "meta_title": "צמיד Moonstone לגברים | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "צמיד Moonstone מקולקציית WILD SPIRIT — חוטי שעווה עם תחושת עומק ונוכחות שקטה. גימור מבריק, רוחב 3 מ״מ.",
+    "main_keyword": "צמיד לגברים",
+    "topics": ["צמידים לגברים", "WILD SPIRIT", "Moonstone", "חוטי שעווה", "גימור מבריק", "נוכחות שקטה"],
+    "summary": "צמיד Moonstone מקולקציית WILD SPIRIT — חוטי שעווה בגימור מבריק, תחושת עומק ונוכחות שקטה"
+  },
+  {
+    "title": "צמיד Octopus",
+    "slug": "/products/octopus-bracelet",
+    "meta_title": "צמיד Octopus לגברים | מינימליסטי | NERO STUDIO",
+    "meta_description": "צמיד Octopus מינימליסטי ואלגנטי — תליון דק עם לוגו NERO מוטבע. גימור מבריק, רוחב 1.8 מ״מ. מראה מודרני שמתאים לכל לוק.",
+    "main_keyword": "צמיד מינימליסטי לגברים",
+    "topics": ["צמידים לגברים", "מינימליזם", "Octopus", "גימור מבריק", "תליון NERO", "צמידים דקים"],
+    "summary": "צמיד Octopus מינימליסטי ואלגנטי — תליון דק עם לוגו NERO, גימור מבריק ורוחב 1.8 מ״מ"
+  },
+  {
+    "title": "צמיד Onyx",
+    "slug": "/products/onyx-bracelet",
+    "meta_title": "צמיד Onyx לגברים | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "צמיד Onyx מקולקציית WILD SPIRIT — אבני אגט טבעיות. מאזן בין עוצמה שקטה לסטייל מחוספס ונקי. גימור מבריק, רוחב 4.5 מ״מ.",
+    "main_keyword": "צמיד אבנות טבעיות לגברים",
+    "topics": ["צמידים לגברים", "WILD SPIRIT", "Onyx", "אגט", "אבנות טבעיות", "גימור מבריק", "עוצמה שקטה"],
+    "summary": "צמיד Onyx מקולקציית WILD SPIRIT — אבני אגט טבעיות, עוצמה שקטה בגימור מבריק ורוחב 4.5 מ״מ"
+  },
+  {
+    "title": "צמיד Orca",
+    "slug": "/products/orca-bracelet",
+    "meta_title": "צמיד Orca לגברים | מינימליסטי | NERO STUDIO",
+    "meta_description": "צמיד Orca מינימליסטי ואלגנטי בגימור מבריק, רוחב 3.5 מ״מ. לוגו NERO מוטבע בחלק הפנימי. קווים נקיים ונוכחות ייחודית.",
+    "main_keyword": "צמיד מינימליסטי לגברים",
+    "topics": ["צמידים לגברים", "מינימליזם", "Orca", "גימור מבריק", "NERO", "קווים נקיים"],
+    "summary": "צמיד Orca מינימליסטי ואלגנטי בגימור מבריק — לוגו NERO מוטבע, רוחב 3.5 מ״מ"
+  },
+  {
+    "title": "צמיד Piranha",
+    "slug": "/products/piranha-bracelet",
+    "meta_title": "צמיד Piranha לגברים | מינימליסטי | NERO STUDIO",
+    "meta_description": "צמיד Piranha מינימליסטי וייחודי — תליון דק עם לוגו NERO מוטבע. גימור מבריק, רוחב 1.6 מ״מ. מראה מדויק, מודרני ואלגנטי.",
+    "main_keyword": "צמיד מינימליסטי לגברים",
+    "topics": ["צמידים לגברים", "מינימליזם", "Piranha", "גימור מבריק", "תליון NERO", "צמידים דקים"],
+    "summary": "צמיד Piranha מינימליסטי וייחודי — תליון NERO מוטבע, גימור מבריק ורוחב 1.6 מ״מ"
+  },
+  {
+    "title": "צמיד Reef",
+    "slug": "/products/reef-bracelet",
+    "meta_title": "צמיד Reef לגברים | OCEAN GEMS | NERO STUDIO",
+    "meta_description": "צמיד Reef מקולקציית OCEAN GEMS — מינימליזם מחוספס בהשראת שוניות הים. גימור מט, רוחב 3.5 מ״מ. נוכחות מאופקת ומדויקת.",
+    "main_keyword": "צמיד לגברים",
+    "topics": ["צמידים לגברים", "OCEAN GEMS", "Reef", "גימור מט", "שוניות ים", "מינימליזם מחוספס"],
+    "summary": "צמיד Reef מקולקציית OCEAN GEMS — מינימליזם מחוספס בגימור מט, בהשראת שוניות הים"
+  },
+  {
+    "title": "צמיד Tulum",
+    "slug": "/products/tulum-bracelet",
+    "meta_title": "צמיד Tulum לגברים | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "צמיד Tulum מקולקציית WILD SPIRIT — אבני המטיט ואגט טבעיות. שילוב ייחודי ועוצמתי שמשדר נוכחות שקטה וחיבור לטבע. גימור מבריק.",
+    "main_keyword": "צמיד אבנות טבעיות לגברים",
+    "topics": ["צמידים לגברים", "WILD SPIRIT", "Tulum", "המטיט", "אגט", "אבנות טבעיות", "גימור מבריק"],
+    "summary": "צמיד Tulum מקולקציית WILD SPIRIT — המטיט ואגט טבעיים, נוכחות שקטה וחיבור לטבע"
+  },
+  {
+    "title": "צמיד Zeus",
+    "slug": "/products/zeus-bracelet",
+    "meta_title": "צמיד Zeus לגברים | ESSENCE OF GOD | NERO STUDIO",
+    "meta_description": "צמיד Zeus מקולקציית ESSENCE OF GOD — מינימליסטי ואלגנטי בעיצוב קלאסי. גימור מבריק, רוחב 4 מ״מ. מראה מודרני ונקי לכל יום.",
+    "main_keyword": "צמיד לגברים",
+    "topics": ["צמידים לגברים", "ESSENCE OF GOD", "Zeus", "מינימליזם", "גימור מבריק", "קלאסי"],
+    "summary": "צמיד Zeus מקולקציית ESSENCE OF GOD — מינימליסטי וקלאסי בגימור מבריק, רוחב 4 מ״מ"
+  },
+  {
+    "title": "שרשרת Arctic",
+    "slug": "/products/arctic-necklace",
+    "meta_title": "שרשרת Arctic לגברים | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "שרשרת Arctic מקולקציית WILD SPIRIT — צדפות לבנות ואבני לפיס טבעיות. שילוב עומק האוקיינוס עם חרוזי צדף. גימור מבריק, רוחב 4 מ״מ.",
+    "main_keyword": "שרשרת לגברים",
+    "topics": ["שרשראות לגברים", "WILD SPIRIT", "Arctic", "לפיס", "צדפות", "אבנות טבעיות", "גימור מבריק"],
+    "summary": "שרשרת Arctic מקולקציית WILD SPIRIT — צדפות לבנות ואבני לפיס, שילוב עומק האוקיינוס ורוגע"
+  },
+  {
+    "title": "שרשרת Aura",
+    "slug": "/products/aura-chain",
+    "meta_title": "שרשרת Aura לגברים | ESSENCE OF GOD | NERO STUDIO",
+    "meta_description": "שרשרת Aura מקולקציית ESSENCE OF GOD — עיצוב אלגנטי עם נוכחות יוקרתית. גימור מבריק, רוחב 3 מ״מ. מראה מודרני ונקי לכל לוק.",
+    "main_keyword": "שרשרת לגברים",
+    "topics": ["שרשראות לגברים", "ESSENCE OF GOD", "Aura", "גימור מבריק", "אלגנטיות", "יוקרה"],
+    "summary": "שרשרת Aura מקולקציית ESSENCE OF GOD — אלגנטיות ויוקרה בגימור מבריק, רוחב 3 מ״מ"
+  },
+  {
+    "title": "שרשרת Barracuda",
+    "slug": "/products/barracuda-necklace",
+    "meta_title": "שרשרת Barracuda לגברים | מינימליסטית | NERO STUDIO",
+    "meta_description": "שרשרת Barracuda מינימליסטית עם תליון NERO ייחודי. גימור מבריק, עובי 1 מ״מ, אורך 52+6 ס״מ. טאץ' אלגנטי ומודרני לשדרוג הסטייל.",
+    "main_keyword": "שרשרת מינימליסטית לגברים",
+    "topics": ["שרשראות לגברים", "מינימליזם", "Barracuda", "גימור מבריק", "תליון NERO", "שרשראות דקות"],
+    "summary": "שרשרת Barracuda מינימליסטית עם תליון NERO — גימור מבריק, עובי 1 מ״מ ואורך 52+6 ס״מ"
+  },
+  {
+    "title": "שרשרת Beluga",
+    "slug": "/products/beluga-necklace",
+    "meta_title": "שרשרת Beluga לגברים | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "שרשרת Beluga מקולקציית WILD SPIRIT — אבני לפיס ופניני מים מתוקים. שילוב אלגנטיות טבעית עם שקט הים. גימור מבריק, רוחב 3.5 מ״מ.",
+    "main_keyword": "שרשרת לגברים",
+    "topics": ["שרשראות לגברים", "WILD SPIRIT", "Beluga", "לפיס", "פניני מים מתוקים", "אבנות טבעיות", "גימור מבריק"],
+    "summary": "שרשרת Beluga מקולקציית WILD SPIRIT — לפיס ופניני מים מתוקים, אלגנטיות טבעית ושקט הים"
+  },
+  {
+    "title": "שרשרת Caviar",
+    "slug": "/products/caviar-necklace",
+    "meta_title": "שרשרת Caviar לגברים | WILD SPIRIT | NERO STUDIO",
+    "meta_description": "שרשרת Caviar מקולקציית WILD SPIRIT — המטיט ופניני מים מתוקים. ניגודי טבע בשילוב מושלם. גימור מבריק, רוחב 5 מ״מ. מראה נקי ובעל נוכחות.",
+    "main_keyword": "שרשרת לגברים",
+    "topics": ["שרשראות לגברים", "WILD SPIRIT", "Caviar", "המטיט", "פניני מים מתוקים", "אבנות טבעיות", "גימור מבריק"],
+    "summary": "שרשרת Caviar מקולקציית WILD SPIRIT — המטיט ופניני מים מתוקים, ניגודי טבע בגימור מבריק"
+  },
+  {
+    "title": "שרשרת Eros",
+    "slug": "/products/eros-necklace",
+    "meta_title": "שרשרת Eros לגברים | ESSENCE OF GOD | NERO STUDIO",
+    "meta_description": "שרשרת Eros מקולקציית ESSENCE OF GOD — שילוב כוח ואלגנטיות. עיצוב מינימליסטי עם חוליות עדינות. גימור מבריק, רוחב 3 מ״מ.",
+    "main_keyword": "שרשרת לגברים",
+    "topics": ["שרשראות לגברים", "ESSENCE OF GOD", "Eros", "מינימליזם", "גימור מבריק", "אלגנטיות"],
+    "summary": "שרשרת Eros מקולקציית ESSENCE OF GOD — שילוב כוח ואלגנטיות, חוליות עדינות בגימור מבריק"
+  },
+  {
+    "title": "שרשרת Helios",
+    "slug": "/products/helios-necklace",
+    "meta_title": "שרשרת Helios לגברים | ESSENCE OF GOD | NERO STUDIO",
+    "meta_description": "שרשרת Helios מקולקציית ESSENCE OF GOD — גימור מבריק לסטייל מודרני, נקי ואלגנטי. רוחב 2 מ״מ. פריט קלאסי לגבר עם טעם.",
+    "main_keyword": "שרשרת לגברים",
+    "topics": ["שרשראות לגברים", "ESSENCE OF GOD", "Helios", "גימור מבריק", "מינימליזם", "קלאסי"],
+    "summary": "שרשרת Helios מקולקציית ESSENCE OF GOD — גימור מבריק, מודרני ואלגנטי, רוחב 2 מ״מ"
+  },
+  {
+    "title": "שרשרת Lagoon",
+    "slug": "/products/lagoon-necklace",
+    "meta_title": "שרשרת Lagoon לגברים | OCEAN GEMS | NERO STUDIO",
+    "meta_description": "שרשרת Lagoon מקולקציית OCEAN GEMS — אבן זירקוניה כחולה ועמוקה. גימור מבריק, עובי 1.3 מ״מ, תליון 14 מ״מ. הצהרת סטייל ואיכות.",
+    "main_keyword": "שרשרת לגברים",
+    "topics": ["שרשראות לגברים", "OCEAN GEMS", "Lagoon", "זירקוניה כחולה", "גימור מבריק", "תליון", "ים"],
+    "summary": "שרשרת Lagoon מקולקציית OCEAN GEMS — זירקוניה כחולה, הצהרת סטייל ואיכות בגימור מבריק"
+  },
+  {
+    "title": "שרשרת Manta",
+    "slug": "/products/manta-necklace",
+    "meta_title": "שרשרת Manta לגברים | מינימליסטית | NERO STUDIO",
+    "meta_description": "שרשרת Manta מינימליסטית עם תליון NERO בגימור מבריק. עובי 1 מ״מ, אורך 52+6 ס״מ. עיצוב נקי וייחודי לשדרוג הסטייל.",
+    "main_keyword": "שרשרת מינימליסטית לגברים",
+    "topics": ["שרשראות לגברים", "מינימליזם", "Manta", "גימור מבריק", "תליון NERO", "שרשראות דקות"],
+    "summary": "שרשרת Manta מינימליסטית עם תליון NERO — גימור מבריק, עובי 1 מ״מ ואורך 52+6 ס״מ"
+  },
+  {
+    "title": "שרשרת Meduza",
+    "slug": "/products/meduza-necklace",
+    "meta_title": "שרשרת Meduza לגברים | OCEAN GEMS | NERO STUDIO",
+    "meta_description": "שרשרת Meduza מקולקציית OCEAN GEMS — אלגנטיות ונוכחות מאופקת. פריט קלאסי לגבר בגימור מבריק, עובי 1 מ״מ, תליון 14 מ״מ.",
+    "main_keyword": "שרשרת לגברים",
+    "topics": ["שרשראות לגברים", "OCEAN GEMS", "Meduza", "גימור מבריק", "קלאסי", "אלגנטיות"],
+    "summary": "שרשרת Meduza מקולקציית OCEAN GEMS — אלגנטיות ונוכחות מאופקת, פריט קלאסי בגימור מבריק"
+  },
+  {
+    "title": "שרשרת Neptune",
+    "slug": "/products/neptune-necklace",
+    "meta_title": "שרשרת Neptune לגברים | ESSENCE OF GOD | NERO STUDIO",
+    "meta_description": "שרשרת Neptune מקולקציית ESSENCE OF GOD — עיצוב מינימליסטי ונקי עם גימור מבריק. רוחב 3 מ״מ. מראה יוקרתי ועדין לכל סגנון.",
+    "main_keyword": "שרשרת לגברים",
+    "topics": ["שרשראות לגברים", "ESSENCE OF GOD", "Neptune", "מינימליזם", "גימור מבריק", "יוקרה"],
+    "summary": "שרשרת Neptune מקולקציית ESSENCE OF GOD — מינימליסטית ונקייה, גימור מבריק יוקרתי ברוחב 3 מ״מ"
+  },
+  {
+    "title": "שרשרת Octopus",
+    "slug": "/products/octopus-necklace",
+    "meta_title": "שרשרת Octopus לגברים | מינימליסטית | NERO STUDIO",
+    "meta_description": "שרשרת Octopus מינימליסטית עם תליון NERO ייחודי בגימור מבריק. עובי 1 מ״מ, אורך 52+6 ס״מ. מושלם לשדרוג הלוק היומיומי.",
+    "main_keyword": "שרשרת מינימליסטית לגברים",
+    "topics": ["שרשראות לגברים", "מינימליזם", "Octopus", "גימור מבריק", "תליון NERO", "שרשראות דקות"],
+    "summary": "שרשרת Octopus מינימליסטית עם תליון NERO — גימור מבריק, עובי 1 מ״מ ואורך 52+6 ס״מ"
+  },
+  {
+    "title": "שרשרת Piranha",
+    "slug": "/products/piranha-necklace",
+    "meta_title": "שרשרת Piranha לגברים | מינימליסטית | NERO STUDIO",
+    "meta_description": "שרשרת Piranha מינימליסטית עם תליון NERO ייחודי בגימור מבריק. עובי 1 מ״מ, אורך 52+6 ס״מ. טאץ' מדויק ויוקרתי לכל יום.",
+    "main_keyword": "שרשרת מינימליסטית לגברים",
+    "topics": ["שרשראות לגברים", "מינימליזם", "Piranha", "גימור מבריק", "תליון NERO", "שרשראות דקות"],
+    "summary": "שרשרת Piranha מינימליסטית עם תליון NERO — גימור מבריק, עובי 1 מ״מ ואורך 52+6 ס״מ"
+  },
+  {
+    "title": "שרשרת Zeus",
+    "slug": "/products/zeus-necklace",
+    "meta_title": "שרשרת Zeus לגברים | ESSENCE OF GOD | NERO STUDIO",
+    "meta_description": "שרשרת Zeus מקולקציית ESSENCE OF GOD — עיצוב מודרני ונוכחות חזקה. גימור מבריק, רוחב 4 מ״מ. מראה יוקרתי שמתאים לכל סגנון.",
+    "main_keyword": "שרשרת לגברים",
+    "topics": ["שרשראות לגברים", "ESSENCE OF GOD", "Zeus", "מינימליזם", "גימור מבריק", "יוקרה", "נוכחות"],
+    "summary": "שרשרת Zeus מקולקציית ESSENCE OF GOD — עיצוב מודרני ונוכחות חזקה בגימור מבריק, רוחב 4 מ״מ"
+  }
+]

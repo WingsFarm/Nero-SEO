@@ -57,7 +57,7 @@ Deliver the post in this exact order:
 4. **URL Slug** — English, lowercase, hyphen-separated, keyword-focused
 5. **Full Article** — Written in Hebrew, structured with H2/H3 headings
 6. **Suggested Internal Links** — natural anchor text suggestions (if applicable)
-7. **Image Prompt** — a short prompt suitable for DALL-E or similar. Images must be saved to `context/posts/{slug}/images/`, not to the top-level `context/images/` directory.
+7. **Image Prompt** — a short prompt suitable for DALL-E or similar. Images must be saved to context/posts/{slug}/images/, not to the top-level context/images/ directory.
 
 Where internal links are appropriate, write: [INTERNAL_LINK: anchor text]`,
         }],

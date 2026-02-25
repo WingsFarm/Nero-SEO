@@ -75,10 +75,13 @@ Every article must include:
 - Compress images before uploading
 
 ## Formatting
-- Clean Markdown or clean HTML
+- All posts must use the structure and inline styles from `context/blog-template.html`
+- HTML is pasted directly into Shopify — inline styles are required, no external CSS classes
 - No emojis
 - **Bold** only for key concepts — do not overuse
 - No large unbroken text blocks
+- Always include the CTA block at the end
+- Always include the header image tag at the top with the correct alt text
 
 ## Authority & Credibility
 - Reference material facts when relevant (e.g., 316L stainless steel properties)

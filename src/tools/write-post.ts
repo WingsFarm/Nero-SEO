@@ -55,7 +55,7 @@ Deliver the post in this exact order:
 2. **Meta Title** — SEO optimized, includes primary keyword, may include NERO
 3. **Meta Description** — 140–160 characters, Hebrew, clear benefit, encourages click
 4. **URL Slug** — English, lowercase, hyphen-separated, keyword-focused
-5. **Full Article** — Written in Hebrew, structured with H2/H3 headings
+5. **Full Article** — Written in Hebrew, using the exact HTML structure and inline styles from context/blog-template.html. Posts are pasted into Shopify — inline styles are mandatory.
 6. **Suggested Internal Links** — natural anchor text suggestions (if applicable)
 7. **Image Prompt** — a short prompt suitable for DALL-E or similar. Images must be saved to context/posts/{slug}/images/, not to the top-level context/images/ directory.
 

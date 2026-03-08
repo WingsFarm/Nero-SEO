@@ -68,6 +68,10 @@ Every article must include:
 - Use natural, descriptive anchor text — never "click here"
 - Link to NERO collections or related blog posts when relevant
 - **All links must open in a new tab:** include `target="_blank" rel="noopener noreferrer"` on every `<a>` tag
+- **Link distribution per post:**
+  - 50–60% → other blog posts (build topic authority)
+  - 20–30% → product pages (help with conversions)
+  - 10–20% → collection pages (category keywords, broader ranking)
 
 ## Images
 - Every post needs at least one image

@@ -59,7 +59,12 @@ Deliver the post in this exact order:
 6. **Suggested Internal Links** — natural anchor text suggestions (if applicable)
 7. **Image Prompt** — a short prompt suitable for DALL-E or similar. Images must be saved to context/posts/{slug}/images/, not to the top-level context/images/ directory.
 
-Where internal links are appropriate, use proper anchor tags with target="_blank" rel="noopener noreferrer" so links open in a new tab. Example: <a href="/blogs/news/slug" target="_blank" rel="noopener noreferrer" style="color:#0d0d0d; font-weight:600; text-decoration:underline; text-underline-offset:3px;">anchor text</a>`,
+Where internal links are appropriate, use proper anchor tags with target="_blank" rel="noopener noreferrer" so links open in a new tab. Example: <a href="/blogs/news/slug" target="_blank" rel="noopener noreferrer" style="color:#0d0d0d; font-weight:600; text-decoration:underline; text-underline-offset:3px;">anchor text</a>
+
+**Link distribution rule:** Of the 2–4 internal links per post, follow this split:
+- 50–60% → other blog posts (build topic authority)
+- 20–30% → product pages (help with conversions)
+- 10–20% → collection pages (category keywords, broader ranking)`,
         }],
       };
     }

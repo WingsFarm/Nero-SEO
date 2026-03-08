@@ -88,6 +88,12 @@ Every article must include:
 - No large unbroken text blocks
 - Always include the CTA block at the end
 - Always include the header image tag at the top with the correct alt text
+- **CTA block must link to the most relevant collection, not always `/collections/all`:**
+  - `/collections/ocean-gems` — posts about ocean-themed products, Meduza, Beluga, Lagoon, Reef
+  - `/collections/wild-spirit` — posts about natural stones, beaded necklaces, Onyx, Tulum, Marine, Kai, Bloom
+  - `/collections/essence-of-god` — posts about minimalist chains/bracelets, Helios, Eros, Zeus, Apollo, Aura, Neptune
+  - `/collections/minimalist` — posts about clean lines, stacking, first jewelry, everyday wear, Orca, Manta, Piranha, Barracuda, Polar
+  - `/collections/best-sellers` — general posts with no clear collection fit (style guides, mistakes, dosage, layering)
 
 ## Authority & Credibility
 - Reference material facts when relevant (e.g., 316L stainless steel properties)

@@ -64,7 +64,14 @@ Where internal links are appropriate, use proper anchor tags with target="_blank
 **Link distribution rule:** Of the 2–4 internal links per post, follow this split:
 - 50–60% → other blog posts (build topic authority)
 - 20–30% → product pages (help with conversions)
-- 10–20% → collection pages (category keywords, broader ranking)`,
+- 10–20% → collection pages (category keywords, broader ranking)
+
+**CTA block collection rule:** The button at the bottom must link to the most relevant NERO collection, not always /collections/all. Choose based on the post topic:
+- /collections/ocean-gems — ocean-themed products, Meduza, Beluga, Lagoon, Reef
+- /collections/wild-spirit — natural stones, beaded necklaces, Onyx, Tulum, Marine, Kai, Bloom
+- /collections/essence-of-god — minimalist chains and bracelets, Helios, Eros, Zeus, Apollo, Aura, Neptune
+- /collections/minimalist — stacking, first jewelry, everyday wear, Orca, Manta, Piranha, Barracuda, Polar
+- /collections/best-sellers — general style guides with no clear collection fit (mistakes, dosage, layering, body guide)`,
         }],
       };
     }

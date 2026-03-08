@@ -7,25 +7,12 @@
   "secondary_keywords": ["תכשיטים יוקרתיים לגברים במחיר נגיש", "stainless steel לגברים", "תכשיטים עמידים לגברים", "תכשיטים שלא משחירים"],
   "topics": ["פלדת אל חלד", "stainless steel", "עמידות למים", "היפואלרגני", "תחזוקה נמוכה", "תכשיטים לגברים", "מחיר-איכות"],
   "published_at": "2026-02-24",
-  "word_count": 540,
+  "word_count": 200,
   "funnel_stage": "mofu",
   "internal_links": [
-    {
-      "anchor": "פלדת אל חלד מול כסף 925",
-      "slug": "/blogs/news/stainless-steel-vs-silver"
-    },
-    {
-      "anchor": "הנבחרים של NERO",
-      "slug": "/blogs/news/must-haves"
-    },
-    {
-      "anchor": "מהמשרד ועד הבר",
-      "slug": "/blogs/news/business-to-bar-jewelry"
-    },
-    {
-      "anchor": "שרשרת חרוזים לגבר",
-      "slug": "/blogs/news/beaded-necklace-men"
-    }
+    { "anchor": "לכסף, שהוא מתכת רכה הנוטה להישרט ולהיפגם", "slug": "/blogs/news/stainless-steel-vs-silver" },
+    { "anchor": "מהמשרד ועד הים", "slug": "/blogs/news/business-to-bar-jewelry" },
+    { "anchor": "הנבחרים של NERO", "slug": "/blogs/news/must-haves" }
   ],
   "image_alt": "גבר עונד צמיד פלדת אל-חלד מינימליסטי — מראה יוקרתי במחיר שפוי"
 }

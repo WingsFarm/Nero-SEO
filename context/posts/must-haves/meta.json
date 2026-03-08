@@ -7,21 +7,12 @@
   "secondary_keywords": ["Silver Cuban", "Helios", "Meduza", "צמידים לגברים", "שרשראות לגברים", "טבעות לגברים"],
   "topics": ["קולקציה", "must-haves", "Silver Cuban", "Helios", "Meduza", "צמידים", "שרשראות", "טבעות"],
   "published_at": "2026-02-23",
-  "word_count": 390,
+  "word_count": 120,
   "funnel_stage": "mofu",
   "internal_links": [
-    {
-      "anchor": "תכשיטים לגברים וביטחון עצמי",
-      "slug": "/blog/jewelry-and-male-confidence"
-    },
-    {
-      "anchor": "בכל מעבר בין סביבות",
-      "slug": "/blogs/news/business-to-bar-jewelry"
-    },
-    {
-      "anchor": "שרשרת חרוזים",
-      "slug": "/blogs/news/beaded-necklace-men"
-    }
+    { "anchor": "להרגיש בטוח בעצמך", "slug": "/blog/jewelry-and-male-confidence" },
+    { "anchor": "מטי-שרט ועד חליפה", "slug": "/blogs/news/business-to-bar-jewelry" },
+    { "anchor": "תכשיטים שמלווים אותך לאורך זמן", "slug": "/blogs/news/stainless-steel-vs-silver" }
   ],
   "image_alt": "שלושה תכשיטים מינימליסטיים לגברים — Silver Cuban, Helios ו-Meduza על משטח כהה"
 }

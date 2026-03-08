@@ -1,10 +1,11 @@
 # SEO Writing Rules — NERO Blog
 
-## Title (H1)
+## Title
 - Written in Hebrew
 - Clear and direct — no clickbait
 - Includes the primary keyword
 - 50–65 characters if possible
+- **Do NOT add an `<h1>` tag in the HTML** — Shopify automatically renders the post title as H1. The HTML body must start with `<p>` or `<h2>`.
 
 ## Meta Title
 - SEO optimized
@@ -66,6 +67,7 @@ Every article must include:
 - Add 2–4 internal links per post
 - Use natural, descriptive anchor text — never "click here"
 - Link to NERO collections or related blog posts when relevant
+- **All links must open in a new tab:** include `target="_blank" rel="noopener noreferrer"` on every `<a>` tag
 
 ## Images
 - Every post needs at least one image

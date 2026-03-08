@@ -64,6 +64,11 @@ The blog is **not** a sales page. When mentioning NERO products:
   - "minimalist men's bracelets"
   - "stainless steel chain necklaces"
 - Never force links — only when contextually relevant
+- **Every `<a>` tag must include `target="_blank" rel="noopener noreferrer"`** — all links open in a new tab, no exceptions
+- Correct link format:
+  ```html
+  <a href="/blogs/news/slug" target="_blank" rel="noopener noreferrer" style="color:#0d0d0d; font-weight:600; text-decoration:underline; text-underline-offset:3px;">anchor text</a>
+  ```
 
 ## Closing Every Post
 Each post must end with:

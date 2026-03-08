@@ -51,15 +51,15 @@ ${seoRules}
 
 Deliver the post in this exact order:
 
-1. **Title (H1)** — Hebrew, includes primary keyword, 50–65 characters
+1. **Title** — Hebrew, includes primary keyword, 50–65 characters (this becomes the Shopify post title — do NOT add an H1 tag in the HTML)
 2. **Meta Title** — SEO optimized, includes primary keyword, may include NERO
 3. **Meta Description** — 140–160 characters, Hebrew, clear benefit, encourages click
 4. **URL Slug** — English, lowercase, hyphen-separated, keyword-focused
-5. **Full Article** — Written in Hebrew, using the exact HTML structure and inline styles from context/blog-template.html. Posts are pasted into Shopify — inline styles are mandatory.
+5. **Full Article** — Written in Hebrew, inline styles required (Shopify-compatible). **Do NOT include an `<h1>` tag — Shopify renders the post title as H1 automatically. Start the HTML content with the first `<p>` or `<h2>`.**
 6. **Suggested Internal Links** — natural anchor text suggestions (if applicable)
 7. **Image Prompt** — a short prompt suitable for DALL-E or similar. Images must be saved to context/posts/{slug}/images/, not to the top-level context/images/ directory.
 
-Where internal links are appropriate, write: [INTERNAL_LINK: anchor text]`,
+Where internal links are appropriate, use proper anchor tags with target="_blank" rel="noopener noreferrer" so links open in a new tab. Example: <a href="/blogs/news/slug" target="_blank" rel="noopener noreferrer" style="color:#0d0d0d; font-weight:600; text-decoration:underline; text-underline-offset:3px;">anchor text</a>`,
         }],
       };
     }
